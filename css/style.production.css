@@ -395,3 +395,6 @@ body {
     color: #f1f1f1;
     height: auto; 
   }
+  #contactForm{
+    margin-left: 10px;
+  }
