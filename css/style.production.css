@@ -10,7 +10,9 @@ body {
     font-size: 16px;
     font-weight:200;
     line-height: 1.6;
-    margin: auto;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
   }
   .page-header {
     background-color:#f1f1f1;
@@ -249,6 +251,7 @@ body {
             align-items: center;
     list-style-type:none;
     margin: 0px;
+    flex: 1;
   }
   ul{
     list-style-type:none;
@@ -358,7 +361,7 @@ body {
     margin-top: 10px;
     position:relative;
     text-decoration: none;
-    height: auto; 
+    
   }
   .page-footer a{
     display:inline;
