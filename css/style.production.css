@@ -40,7 +40,7 @@ body {
     color: #6d6d6c;
   }
   .page-header__item a:hover{
-  background-color: #6d6d6c;
+  background-color: #ec7931;
   -webkit-transform: translatex(-10px);
           transform: translatex(-10px);
   -webkit-transition: all 0.9s;
